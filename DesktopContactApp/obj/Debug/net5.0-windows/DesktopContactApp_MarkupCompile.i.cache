@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\anaxc\source\repos\DesktopContactApp\DesktopContactApp\obj\Debug\net5.0-windows\
+C:\Users\62772\Documents\wpfContactApp\DesktopContactApp\obj\Debug\net5.0-windows\
 DesktopContactApp
 none
 false
 TRACE;DEBUG;NET;NET5_0;NETCOREAPP
-C:\Users\anaxc\source\repos\DesktopContactApp\DesktopContactApp\App.xaml
+C:\Users\62772\Documents\wpfContactApp\DesktopContactApp\App.xaml
 41059538360
 
 9-1780228532
-1981287333478
+198105209753
 Controls\ContactControl.xaml;DetailsContactWindow.xaml;MainWindow.xaml;NewContactWindow.xaml;
 
-True
+False
 
